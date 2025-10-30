@@ -41,6 +41,10 @@ Blueprint before highlighting key features: <br/>
 Blueprint after highlighting key features:  <br/>
 <img src="https://imgur.com/Yf2iI2k.png" height="80%" width="80%" alt="Blueprint Highlighting"/>
 <br />
+<br />
+Azure Form Recognizer:  <br/>
+<img src="https://imgur.com/J8iD4Wn.png" height="80%" width="80%" alt="Blueprint Highlighting"/>
+<br />
 </p>
 
 <h3>Confidentiality Note</h3>
