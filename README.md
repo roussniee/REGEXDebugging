@@ -32,37 +32,16 @@ As part of a larger effort to automate the review of engineering blueprints, thi
 -  Established version control best practices via Azure DevOps
 
 <h2>Program walk-through/Visual aids:</h2>
-<i><b>Still building...</b></i>
-<!--
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<i><b>Sensitive information redacted</b></i>
+<p align="Left">
+Blueprint before highlighting key features: <br/>
+<img src="https://imgur.com/UTcEfUZ.png" height="80%" width="80%" alt="Blueprint Highlighting"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Blueprint after highlighting key features:  <br/>
+<img src="https://imgur.com/Yf2iI2k.png" height="80%" width="80%" alt="Blueprint Highlighting"/>
 <br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
---!>
 
 <h3>Confidentiality Note</h3>
 <i>No blueprint data is shown. All examples are reconstructed with fake file structures and mock annotations.</i>
