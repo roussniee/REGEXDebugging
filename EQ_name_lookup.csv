@@ -1,0 +1,130 @@
+Equipment_Type_Name,Equipment_Abbreviation
+Reciprocating Engine,RE
+Risers,PR
+Scrapper Trapers,TR
+Skidded Equipment,SK
+Steam Turbines,ST
+Strainer,SR
+Subsea Pumps,SP
+Subsea Xmas Tree,WC
+Subsea-Product Control,CS
+Swivels,SW
+Tower/Column,TC
+Turboexpanders,TE
+Turrets,TU
+Ups,UP
+Vessels,VE
+Winches,WI
+Condenser,HT
+Dehydrator,DU
+Back Pressure Valve,BPV
+Meter,FE
+Basket Strainer,S
+Gas Chromatographs,GC
+Pumps,P
+Bearing Lube Pump Cooler,P
+Control Panel,UC
+Ventilation Fan,M
+Compressor Motor Blower,BM-CO
+Igs Membrane Module,MM
+Coalescer Filter,F
+Nitrogen Generator,NG
+Moisture Seperator,MS
+Atmos Storage Tank,TK
+Blowers,BL
+Caverns,CV
+Combustion Engines,CE
+Compressors,CO
+Compressors,C0
+Compressors,AC-CO
+Compressors,P-CO
+Compressors,CM
+Cooling Tower,CT
+Cranes,CR
+Electric Generator,EG
+Electric Motor,EM
+Fan,FN
+Filter,FL
+Filter,F-CO
+Filter,F
+Fire And Gas Detectors,FG
+Flare Stack,FS
+Gas Turbines,GT
+Gear Box,GB
+Heat Exchangers,HE
+Heat Recovery Unit,HTR
+Heat Recovery Unit,H
+Heaters And Boilers,HB
+Mixing Equipment,MX
+Mixing Equipment,M
+Nozzels,NO
+Piping,PI
+Power Transformer,PT
+Prover,PV
+Pumps,PU
+Unknown,CZ
+Unknown,UCP
+Unknown,AC
+Unknown,SE
+Heat Recovery Unit,HR
+Pumps,PM
+Absorber,VAB
+Accelerators,WA
+Accumulator,VA
+Aerator,AE
+Agitator,MXA
+Air Cooled,AC
+Air Dryer,VAD
+API Type Storage,HA
+Bath,FBH
+Blowers,B
+Boiler,FB
+Caverns,CV
+Chlorinators,WC
+Coalescer,VC
+Coil,HC
+Compressors(AIR),CA
+Compressors(GAS),CG
+Cooling Tower,CT
+Dehydrators,VD
+Double Pipe,DP
+Electric,HE
+Electric Motor,EM
+Fans,FN
+Filter/Coalescer,VFC
+Filters,VF
+Flame Arrestor,FA
+Flame Front Generator,FG
+Flare,FL
+Furnace/Incinerator,FF
+Gas Turbines,GT
+Generators,G
+Heater,FH
+Heater,WH
+Instir Gas Dryer,VIGD
+Jet Mixer,MXJ
+Knockout,VKO
+Loading Racks,LDR
+Meter Runs,MR
+Multi-Tube,MT
+Oil Reclaimer/Purifier,VOR
+Packed Column/Tower,VT
+Provers,PV
+Pulsation Damper(On Pump),VPD
+Pumps,P
+Reactor,VRX
+Receiver,VR
+Reciprocating Engine,RE
+Scraper Traps,TR
+Scrubber,VSC
+Separator,VS
+Shell and Tube,E
+Silencer,SI
+Spheres,VSP
+Static In-Line Mixer,MXS
+Steam Turbines,ST
+Storage/Surge Tanks(Pressure Retaining),VST
+Strainer,STR
+Stripper,VSR
+Trayed Column/Tower,VT
+Treaters,WT
